@@ -2542,7 +2542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 154.94 104.14 0)
 			(effects
 				(font
@@ -2612,7 +2612,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 81.28 96.52 0)
 			(effects
 				(font
@@ -2681,7 +2681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-8_3x3mm_P0.65mm"
 			(at 98.806 88.9 0)
 			(effects
 				(font
@@ -2690,7 +2690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm75b.pdf"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/NXP-Semiconductors/LM75ADP118?qs=LOCUfHb8d9vvCdlTDgESAg%3D%3D"
 			(at 84.582 79.375 0)
 			(effects
 				(font
@@ -2967,7 +2967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 55.88 96.52 0)
 			(effects
 				(font
@@ -3037,7 +3037,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 68.58 96.52 0)
 			(effects
 				(font
@@ -3305,7 +3305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 171.45 104.14 0)
 			(effects
 				(font
@@ -3715,7 +3715,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 55.88 80.01 0)
 			(effects
 				(font
@@ -3785,7 +3785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 68.58 80.01 0)
 			(effects
 				(font
@@ -3855,7 +3855,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SC-74-6_1.55x2.9mm_P0.95mm"
 			(at 161.29 36.83 0)
 			(effects
 				(font
@@ -4003,7 +4003,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 128.27 104.14 0)
 			(effects
 				(font
@@ -4215,7 +4215,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 109.22 68.58 0)
 			(effects
 				(font
@@ -4483,7 +4483,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 81.28 80.01 0)
 			(effects
 				(font
@@ -4623,7 +4623,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 171.45 116.84 0)
 			(effects
 				(font
@@ -4693,7 +4693,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 142.24 104.14 0)
 			(effects
 				(font
