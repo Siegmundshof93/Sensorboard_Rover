@@ -2398,6 +2398,10 @@
 		(uuid "2455ee03-16bb-47a6-b17c-4566fcdd29e4")
 	)
 	(no_connect
+		(at 147.32 60.96)
+		(uuid "38ec56d4-9783-4218-848c-ff0df9a9bfd8")
+	)
+	(no_connect
 		(at 147.32 114.3)
 		(uuid "3e5d651e-6d69-41b4-b60e-b08ae94fafd3")
 	)
@@ -2440,6 +2444,10 @@
 	(no_connect
 		(at 111.76 81.28)
 		(uuid "7fa24a32-1bb3-45e7-b0c2-847a9736c17e")
+	)
+	(no_connect
+		(at 147.32 63.5)
+		(uuid "905af6cc-e763-405b-a75b-40f9c89769a6")
 	)
 	(no_connect
 		(at 111.76 96.52)
@@ -2821,16 +2829,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 60.96) (xy 161.29 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62c10f87-6a77-4df0-ae3e-e6ffbdbf577a")
-	)
-	(wire
-		(pts
 			(xy 147.32 104.14) (xy 168.91 104.14)
 		)
 		(stroke
@@ -2958,16 +2956,6 @@
 			(type default)
 		)
 		(uuid "856ccdb6-a9ee-422c-81b1-e9a8b892ba5e")
-	)
-	(wire
-		(pts
-			(xy 147.32 63.5) (xy 161.29 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "876b8be5-4aa7-4261-b60c-221bbcd14dc0")
 	)
 	(wire
 		(pts
@@ -3379,18 +3367,6 @@
 		)
 		(uuid "910cb928-2045-4762-a50e-8702bd6ec499")
 	)
-	(hierarchical_label "POLE_1_EN"
-		(shape output)
-		(at 161.29 60.96 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "911a3986-ed03-4850-99d6-3f0d5c58dd90")
-	)
 	(hierarchical_label "DIN"
 		(shape output)
 		(at 153.67 88.9 0)
@@ -3438,18 +3414,6 @@
 			(justify left)
 		)
 		(uuid "cba665a3-5317-49cd-9f96-5c9be8eced11")
-	)
-	(hierarchical_label "POLE_2_EN"
-		(shape output)
-		(at 161.29 63.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d430185f-3dd0-4712-ad4e-847034b62eb7")
 	)
 	(hierarchical_label "RST"
 		(shape input)
