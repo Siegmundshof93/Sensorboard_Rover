@@ -3316,72 +3316,6 @@
 		(uuid "cc0de28d-e6b4-4788-8992-60b644f78efe")
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 41.91 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0a75504f-09c9-47e2-a31e-b74739baa601")
-		(property "Reference" "#PWR072"
-			(at 41.91 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 41.91 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 41.91 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.91 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 41.91 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f6d24ba2-072e-4d40-8b5a-233dbb4a00c8")
-		)
-		(instances
-			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/9534e08a-6e1c-40ab-b25b-70f95b039843/d48dc00b-306d-4d39-acfa-cb489700cf2b"
-					(reference "#PWR072")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 227.33 115.57 0)
 		(unit 1)
@@ -4899,7 +4833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-6_W7.62mm"
+		(property "Footprint" "Package_DIP:SMDIP-6_W9.53mm_Clearance8mm"
 			(at 209.55 110.49 0)
 			(effects
 				(font
@@ -4951,6 +4885,72 @@
 			(project "sensorBoard"
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/9534e08a-6e1c-40ab-b25b-70f95b039843/d48dc00b-306d-4d39-acfa-cb489700cf2b"
 					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 41.91 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b281cc00-1323-4ab2-ac12-5286780a2505")
+		(property "Reference" "#PWR053"
+			(at 41.91 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 41.91 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 41.91 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 41.91 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a35e175a-2c16-424f-9dee-4e84c5636e28")
+		)
+		(instances
+			(project ""
+				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/9534e08a-6e1c-40ab-b25b-70f95b039843/d48dc00b-306d-4d39-acfa-cb489700cf2b"
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -5640,7 +5640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-6_W7.62mm"
+		(property "Footprint" "Package_DIP:SMDIP-6_W9.53mm_Clearance8mm"
 			(at 205.74 49.53 0)
 			(effects
 				(font
