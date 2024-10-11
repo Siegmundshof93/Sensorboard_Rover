@@ -1474,22 +1474,10 @@
 		(uuid "71494f90-73f5-4fd4-a455-b0726db64936")
 	)
 	(junction
-		(at 247.65 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "81c35ee3-13f6-4cde-a300-04821294b0d8")
-	)
-	(junction
 		(at 267.97 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "934f0a2c-fdc5-46e9-ad0b-10498265378b")
-	)
-	(junction
-		(at 198.12 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9360ca2a-affa-4295-a9ed-9799f09b0f1f")
 	)
 	(junction
 		(at 52.07 127)
@@ -1514,18 +1502,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d51c603a-3640-4157-8957-7cda738fcb21")
-	)
-	(junction
-		(at 193.04 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d75bc5a6-7d9e-4219-afa3-b95cf0038de1")
-	)
-	(junction
-		(at 257.81 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e9bbfdfe-612b-4e3e-a320-4b6befe622e0")
 	)
 	(no_connect
 		(at 270.51 96.52)
@@ -1553,26 +1529,6 @@
 		)
 		(uuid "05d8ec20-6c8b-443d-8bd5-8f9e20cae36b")
 	)
-	(wire
-		(pts
-			(xy 198.12 115.57) (xy 201.93 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "074757db-985d-4120-9b67-40ef1068d103")
-	)
-	(wire
-		(pts
-			(xy 242.57 115.57) (xy 247.65 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07636ba8-57d4-41e5-bfe5-5686cb9837ad")
-	)
 	(polyline
 		(pts
 			(xy 13.97 101.6) (xy 165.1 101.6)
@@ -1585,43 +1541,13 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 53.34) (xy 198.12 44.45)
+			(xy 198.12 44.45) (xy 198.12 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "09da4fea-61ca-43ab-bea8-b6a82b5e59c5")
-	)
-	(wire
-		(pts
-			(xy 193.04 81.28) (xy 193.04 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e63fff3-cbd3-4d69-a99a-7198798650af")
-	)
-	(wire
-		(pts
-			(xy 267.97 129.54) (xy 257.81 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "124e8f73-e65b-4875-a8de-3e4cf516fe3e")
-	)
-	(wire
-		(pts
-			(xy 247.65 97.79) (xy 247.65 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "136d88e2-af55-483a-93ec-e63fb8999846")
 	)
 	(wire
 		(pts
@@ -1685,16 +1611,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 64.77) (xy 257.81 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32d95c92-f7aa-48b6-a57e-6623f465b5cf")
-	)
-	(wire
-		(pts
 			(xy 54.61 135.89) (xy 54.61 138.43)
 		)
 		(stroke
@@ -1712,16 +1628,6 @@
 			(type default)
 		)
 		(uuid "358fcd66-87ca-417e-a225-4b38796129b7")
-	)
-	(wire
-		(pts
-			(xy 198.12 76.2) (xy 198.12 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3842c7f9-7b24-444b-9238-2b4c8c3b0669")
 	)
 	(wire
 		(pts
@@ -1775,16 +1681,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 83.82) (xy 247.65 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4883dfdf-94a1-4ee5-82bf-2211133c148c")
-	)
-	(wire
-		(pts
 			(xy 52.07 135.89) (xy 54.61 135.89)
 		)
 		(stroke
@@ -1792,16 +1688,6 @@
 			(type default)
 		)
 		(uuid "4d8d5d12-36d7-4725-a59a-fe717772e6a8")
-	)
-	(wire
-		(pts
-			(xy 257.81 129.54) (xy 252.73 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d9e99eb-4f8f-49e7-b4aa-5489bc0a8d83")
 	)
 	(wire
 		(pts
@@ -1842,16 +1728,6 @@
 			(type default)
 		)
 		(uuid "556c4f27-0d77-4534-885b-733e03f69d83")
-	)
-	(wire
-		(pts
-			(xy 198.12 76.2) (xy 198.12 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ee46d68-a1bc-4093-8fc8-d340f8224e44")
 	)
 	(wire
 		(pts
@@ -1975,16 +1851,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 127) (xy 201.93 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82d2d960-c7f5-4289-af86-dc3ff25cc95d")
-	)
-	(wire
-		(pts
 			(xy 267.97 83.82) (xy 274.32 83.82)
 		)
 		(stroke
@@ -2015,7 +1881,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 50.8) (xy 193.04 60.96)
+			(xy 193.04 50.8) (xy 193.04 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2045,7 +1911,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 59.69) (xy 247.65 45.72)
+			(xy 247.65 45.72) (xy 247.65 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2082,6 +1948,16 @@
 			(type default)
 		)
 		(uuid "a42c6720-1672-422b-a7b9-be54406bd266")
+	)
+	(wire
+		(pts
+			(xy 257.81 129.54) (xy 267.97 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8832023-ea9b-4efd-aec7-b8210921ff5f")
 	)
 	(wire
 		(pts
@@ -2125,23 +2001,13 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 100.33) (xy 193.04 127)
+			(xy 257.81 49.53) (xy 257.81 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b64fbfec-ccee-4ae5-96f2-a14557fbd47b")
-	)
-	(wire
-		(pts
-			(xy 247.65 129.54) (xy 242.57 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6b77e76-6d13-42af-8480-d2aa10278b13")
+		(uuid "b1daf4ca-f17b-4193-af65-d7ad4c2da757")
 	)
 	(wire
 		(pts
@@ -2265,16 +2131,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 49.53) (xy 257.81 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ef24446a-5807-4c59-a9b5-a4ae45c3d90f")
-	)
-	(wire
-		(pts
 			(xy 53.34 67.31) (xy 59.69 67.31)
 		)
 		(stroke
@@ -2282,36 +2138,6 @@
 			(type default)
 		)
 		(uuid "f387f95b-cd6c-4f53-8907-0cdf88794ec1")
-	)
-	(wire
-		(pts
-			(xy 198.12 91.44) (xy 198.12 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3beabcf-c261-45d3-a52d-53798fa58907")
-	)
-	(wire
-		(pts
-			(xy 247.65 115.57) (xy 247.65 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f44905d2-5801-4545-9de9-b7f00e33e112")
-	)
-	(wire
-		(pts
-			(xy 193.04 66.04) (xy 193.04 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4714a51-23a2-440a-8dca-d4f581c5f842")
 	)
 	(wire
 		(pts
@@ -2602,10 +2428,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0199")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0117")
 					(unit 1)
@@ -2672,10 +2494,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0203")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0121")
 					(unit 1)
@@ -2693,7 +2511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ac7010c-e679-4359-bd77-72113e27f30f")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR0110"
 			(at 38.1 143.51 0)
 			(effects
 				(font
@@ -2742,10 +2560,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0192")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0110")
 					(unit 1)
@@ -2763,7 +2577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6112c85d-6d13-41b3-9e8d-823ef8e279c8")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR0120"
 			(at 267.97 68.58 0)
 			(effects
 				(font
@@ -2812,10 +2626,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0202")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0120")
 					(unit 1)
@@ -2886,10 +2696,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "R23")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "R37")
 					(unit 1)
@@ -2958,10 +2764,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "R21")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "R35")
 					(unit 1)
@@ -2979,7 +2781,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66576317-519c-4e00-b496-592a511f97dc")
-		(property "Reference" "R18"
+		(property "Reference" "R38"
 			(at 88.9 66.0399 0)
 			(effects
 				(font
@@ -3032,10 +2834,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "R24")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "R38")
 					(unit 1)
@@ -3053,7 +2851,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67f7adf6-125a-4091-9de1-569a28cc6df1")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR0119"
 			(at 105.41 172.72 0)
 			(effects
 				(font
@@ -3102,10 +2900,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0201")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0119")
 					(unit 1)
@@ -3123,7 +2917,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "704c70ee-6d54-406d-be09-16e16ba1dc66")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR0116"
 			(at 86.36 80.01 0)
 			(effects
 				(font
@@ -3172,10 +2966,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0198")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0116")
 					(unit 1)
@@ -3193,7 +2983,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e0f2a0c-9b9d-4fca-b734-e68618555d54")
-		(property "Reference" "D6"
+		(property "Reference" "D10"
 			(at 271.78 91.3764 90)
 			(effects
 				(font
@@ -3249,10 +3039,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "D17")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "D10")
 					(unit 1)
@@ -3323,10 +3109,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "C41")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "C24")
 					(unit 1)
@@ -3344,7 +3126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9332ea8d-b096-4eb5-96ee-75d472aecdad")
-		(property "Reference" "C22"
+		(property "Reference" "C25"
 			(at 107.95 160.0262 0)
 			(effects
 				(font
@@ -3397,10 +3179,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "C42")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "C25")
 					(unit 1)
@@ -3467,10 +3245,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0205")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0123")
 					(unit 1)
@@ -3547,10 +3321,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "Q2")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "Q10")
 					(unit 1)
@@ -3617,10 +3387,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0204")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0122")
 					(unit 1)
@@ -3698,10 +3464,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "U32")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "U20")
 					(unit 1)
@@ -3719,7 +3481,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad4ab939-a7f9-4024-96c5-ec770387cf35")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR0114"
 			(at 67.31 82.55 0)
 			(effects
 				(font
@@ -3768,10 +3530,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0196")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0114")
 					(unit 1)
@@ -3789,7 +3547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b245e97c-8b78-45ee-9126-ab05a15c3137")
-		(property "Reference" "D1"
+		(property "Reference" "D12"
 			(at 271.78 137.0964 90)
 			(effects
 				(font
@@ -3845,10 +3603,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "D19")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "D12")
 					(unit 1)
@@ -3915,10 +3669,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0194")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0112")
 					(unit 1)
@@ -3985,10 +3735,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0195")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0113")
 					(unit 1)
@@ -4062,10 +3808,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "D8")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "D9")
 					(unit 1)
@@ -4131,10 +3873,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0197")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0115")
 					(unit 1)
@@ -4152,7 +3890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4ef6b6e-8e9d-40c2-a55c-9ecf2f4fd8d5")
-		(property "Reference" "D3"
+		(property "Reference" "D11"
 			(at 271.78 120.5864 90)
 			(effects
 				(font
@@ -4208,10 +3946,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "D18")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "D11")
 					(unit 1)
@@ -4282,10 +4016,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "C40")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "C23")
 					(unit 1)
@@ -4352,10 +4082,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0200")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0118")
 					(unit 1)
@@ -4373,7 +4099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f083da0f-e1c2-435c-b87d-8c468fee2c98")
-		(property "Reference" "R19"
+		(property "Reference" "R36"
 			(at 69.85 48.2599 0)
 			(effects
 				(font
@@ -4426,10 +4152,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "R22")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "R36")
 					(unit 1)
@@ -4516,10 +4238,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "U31")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "U19")
 					(unit 1)
@@ -4586,10 +4304,6 @@
 		)
 		(instances
 			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(reference "#PWR0193")
-					(unit 1)
-				)
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(reference "#PWR0111")
 					(unit 1)
@@ -4671,90 +4385,6 @@
 			(project "sensorBoard"
 				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
 					(page "12")
-				)
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(page "19")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 201.93 107.95)
-		(size 40.64 31.75)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "d48dc00b-306d-4d39-acfa-cb489700cf2b")
-		(property "Sheetname" "Motor_driver_2-1"
-			(at 201.93 107.2384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Motor_driver_2-1.kicad_sch"
-			(at 201.93 140.2846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "DIN" input
-			(at 201.93 115.57 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "17ad40c4-6a61-4643-9962-f108db923b19")
-		)
-		(pin "EN_MOTOR" input
-			(at 201.93 127 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "ff5260f7-aad8-4386-b2f2-8d34b376971f")
-		)
-		(pin "POLE_2" output
-			(at 242.57 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "778888d5-f404-4f41-933c-35c6a63b92c2")
-		)
-		(pin "POLE_1" output
-			(at 242.57 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "caedd661-a3fa-43e2-884e-8dc1f7734032")
-		)
-		(instances
-			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/99847452-c15f-478e-a49b-00c0f2bcd04b/df19f59c-4a7a-4eeb-9c85-b6934b0bfb81"
-					(page "13")
-				)
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01/60fa4213-9bcb-42a7-994a-420953d9bcb7/d7bc85a0-9ae9-428c-9b26-66328df423cd"
-					(page "20")
 				)
 			)
 		)
