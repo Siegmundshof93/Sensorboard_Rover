@@ -1951,6 +1951,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 116.84) (xy 50.8 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b72a9c5-29e5-42d6-a271-1824bed75151")
+	)
+	(wire
+		(pts
 			(xy 243.84 137.16) (xy 243.84 140.97)
 		)
 		(stroke
@@ -2118,16 +2128,6 @@
 			(type default)
 		)
 		(uuid "4073eaaf-c8e8-4b77-8d38-8f95156dbeba")
-	)
-	(wire
-		(pts
-			(xy 50.8 114.3) (xy 36.83 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4118b131-5a15-47ee-a4cf-3836c6364d36")
 	)
 	(wire
 		(pts
@@ -2378,16 +2378,6 @@
 			(type default)
 		)
 		(uuid "74fbfcd6-8749-4bff-9fd3-f50a1daf0cba")
-	)
-	(wire
-		(pts
-			(xy 34.29 116.84) (xy 50.8 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "758c05cc-f777-448e-bad1-b5139ba6817f")
 	)
 	(wire
 		(pts
@@ -2728,6 +2718,16 @@
 			(type default)
 		)
 		(uuid "c936fd91-6c06-4b51-98f1-a9cbbb085fd5")
+	)
+	(wire
+		(pts
+			(xy 36.83 114.3) (xy 50.8 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca1c07e2-2ee8-4d8a-b2c9-d226ecd92221")
 	)
 	(wire
 		(pts
@@ -5345,7 +5345,7 @@
 			(uuid "248b7033-bbb4-4615-b3d7-8b0cbea66fde")
 		)
 		(pin "UART_RX" input
-			(at 50.8 116.84 180)
+			(at 50.8 114.3 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5355,7 +5355,7 @@
 			(uuid "01a63500-2c0f-4fb9-93e0-f6d9a0258c1e")
 		)
 		(pin "UART_TX" output
-			(at 50.8 114.3 180)
+			(at 50.8 116.84 180)
 			(effects
 				(font
 					(size 1.27 1.27)

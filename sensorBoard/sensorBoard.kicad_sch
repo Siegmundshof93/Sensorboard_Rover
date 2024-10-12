@@ -44,8 +44,8 @@
 		)
 	)
 	(sheet
-		(at 115.57 41.91)
-		(size 41.91 34.29)
+		(at 113.03 41.91)
+		(size 43.18 35.56)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -56,7 +56,7 @@
 		)
 		(uuid "99847452-c15f-478e-a49b-00c0f2bcd04b")
 		(property "Sheetname" "Platine1"
-			(at 115.57 41.1984 0)
+			(at 113.03 41.1984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65,7 +65,7 @@
 			)
 		)
 		(property "Sheetfile" "Platine1.kicad_sch"
-			(at 115.57 76.7846 0)
+			(at 113.03 78.0546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
