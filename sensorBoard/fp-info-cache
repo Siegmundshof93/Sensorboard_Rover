@@ -1,4 +1,4 @@
-24791434390868190
+24793163542629230
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63498,6 +63498,13 @@ solder jumper open
 3
 Kicad
 paltech
+
+
+0
+0
+0
+Kicad
+paltech25_25
 
 
 0
