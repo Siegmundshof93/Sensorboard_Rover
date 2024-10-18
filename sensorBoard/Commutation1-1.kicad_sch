@@ -3429,7 +3429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.infineon.com/dgdl/Infineon-BTS50080-1TEA-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa435f2d2115b"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Infineon-Technologies/BTS50080-1TEA?qs=mzcOS1kGbgc5n9YbLJ%252B1XA%3D%3D&utm_id=10065920823&gad_source=1&gclid=Cj0KCQjwjY64BhCaARIsAIfc7YZND2xRs0HC7XzXdFUxUKqyFeOFJX_pHefazzozMwqem7oenVRHWzsaAlDiEALw_wcB"
 			(at 104.14 69.85 0)
 			(effects
 				(font
