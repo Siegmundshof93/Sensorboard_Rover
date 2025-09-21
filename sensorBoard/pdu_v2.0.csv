@@ -1,0 +1,46 @@
+,,,,,
+,,,,,
+,MOUSER,,,,
+,,,,,
+Id,Designator,Footprint,Quantity,Designation,Supplier and ref
+1,U23,LQFP-64_10x10mm_P0.5mm,1,STM32L476RGTx,https://www.mouser.de/ProductDetail/STMicroelectronics/STM32L476RGT6?qs=o58qnh%2FCpu44V%252B7CaDZzCA%3D%3D
+4,R33,R_0805_2012Metric,1,0,https://www.mouser.de/ProductDetail/Vishay-Draloric/RCA08050000ZSEC?qs=sGAEpiMZZMtlubZbdhIBICkZD26Dv0dBF8vbjjT8CPE%3D
+5,"C16,C3",C_0603_1608Metric,2,0.1µF,https://www.mouser.de/ProductDetail/YAGEO/CC0603KRX7R8BB104?qs=sGAEpiMZZMvsSlwiRhF8qj9NgEuXmwzvrkjJ%252BgSm7QM%3D
+6,"Q6,Q4,Q5",SOT-23,3,Q_NMOS_Depletion_GSD,https://www.mouser.de/ProductDetail/Infineon-Technologies/IRLML6344TRPBF?qs=9%252BKlkBgLFf2w4qS48UOXVw%3D%3D
+7,"C19,C18,C2,C1",C_0603_1608Metric,4,1µF,https://www.mouser.de/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=sGAEpiMZZMvsSlwiRhF8qsQT4vDixbP6%252BylxMuymhKU%3D
+,,,,,
+9,"R58,R6,R4,R2",R_0805_2012Metric,4,10k,https://www.mouser.de/ProductDetail/YAGEO/RT0805BRD0710KL?qs=87%2Fgv35YuOdOfU%252BBkLDVxA%3D%3D
+11,"R3,R5",R_0805_2012Metric,2,1k,https://www.mouser.de/ProductDetail/Vishay/TNPW08051K00FEEA?qs=4CveT0Ftx0oXPRWW%252BDtRJw%3D%3D
+13,U2,SOIC-8_3.9x4.9mm_P1.27mm,1,MAX3051,https://www.mouser.de/ProductDetail/Analog-Devices-Maxim-Integrated/MAX3051ESA%2b?qs=CDqwynd4ZNpXRaQ90S7BzQ%3D%3D
+15,D2,D_SOD-323,1,TVS,https://www.mouser.de/ProductDetail/Diodes-Incorporated/SD24-7?qs=gZXFycFWdANpSQe3CC9Y5w%3D%3D
+16,"J5,J4",RJ45_Amphenol_RJHSE5380,2,RJ45,https://www.digikey.de/de/products/detail/amphenol-cs-commercial-products/RJHSE-5380/1242692?srsltid=AfmBOooOj_UKjsPxkWBArV_SARWtqKj68jMkgc16v4rA9ceM9bieNaPd
+17,"C36,C35,C34,C37,C30,C33,C17",C_0805_2012Metric,7,0.1µF,https://www.mouser.de/ProductDetail/KYOCERA-AVX/08053C104M4T4A?qs=sGAEpiMZZMvsSlwiRhF8qkC8sCWNI%252B7XXcBpMi4xA%2Fs%3D
+18,C38,C_0805_2012Metric,1,4.7µF,https://www.mouser.de/ProductDetail/YAGEO/CC0805KKX5R6BB475?qs=sGAEpiMZZMvsSlwiRhF8qj9NgEuXmwzvpMh39U7oYGk%3D
+19,C13,C_0402_1005Metric,1,0.1µF,https://www.mouser.de/ProductDetail/YAGEO/CC0402KRX7R7BB104?qs=sGAEpiMZZMvsSlwiRhF8qj9NgEuXmwzvXiHLCCROAMI%3D
+20,"D3,D5",LED_0805_2012Metric,2,LED_Small,https://www.mouser.de/ProductDetail/Dialight/599-0110-007F?qs=gTYE2QTfZfS0HtheKY0LlQ%3D%3D&srsltid=AfmBOooYJqNsJeMqJJuVixZIoZTnTKPrQ9HTlPksH81J4NergXWHMVU6
+22,R34,R_0805_2012Metric,1,120,https://www.mouser.de/ProductDetail/Vishay-Beyschlag/MCU08050C1200FP500?qs=AQAM1KSmsrk1MNM1hoAlRQ%3D%3D
+23,R13,R_0805_2012Metric,1,22.1k,https://www.mouser.de/ProductDetail/Vishay/TNPW080522K1FEEA?qs=7ac4DvhHH3HE0qnxnGS7TQ%3D%3D
+25,R1,R_0805_2012Metric,1,1.87,https://www.mouser.de/ProductDetail/TE-Connectivity-Holsworthy/CPF0805B1R82E1?qs=iLbezkQI%252BsjjU5mCYLAm0Q%3D%3D
+26,U3,SOT-23-6,1,LMR51430,https://www.mouser.de/ProductDetail/Texas-Instruments/LMR51430YFDDCR?qs=vvQtp7zwQdObTljc3WTMYQ%3D%3D
+27,C15,CP_Elec_6.3x5.8,1,22µF,https://www.mouser.de/ProductDetail/Panasonic/EEE-FK1H220P?qs=qE6bgDGEOCtJJEdkzCwe7w%3D%3D
+28,F4,Fuse_1206_3216Metric,1,Fuse_Small,https://www.mouser.de/ProductDetail/Bourns/SF-1206SA1000R-2?qs=MyNHzdoqoQJXjntjFkuAqQ%3D%3D
+29,R12,R_0805_2012Metric,1,100k,https://www.mouser.de/ProductDetail/YAGEO/RP0805BRD07100KL?qs=Y0Uzf4wQF3lGJQ%252Be34BDRA%3D%3D
+30,U1,SOIC-16_3.9x9.9mm_P1.27mm,1,MC1413BD,https://www.mouser.de/ProductDetail/onsemi/MC1413BDR2G?qs=g2rIOKKlpob4kmS2VnMkWQ%3D%3D
+31,"C32,C31",C_0805_2012Metric,2,18pF,https://www.mouser.de/ProductDetail/KYOCERA-AVX/08055A180LAT2A?qs=sGAEpiMZZMvsSlwiRhF8qkxdDxvWPT4MrecXkUSzaxc%3D
+32,C20,C_0603_1608Metric,1,10µF,https://www.mouser.de/ProductDetail/TAIYO-YUDEN/JMK107ABJ106MAHT?qs=sGAEpiMZZMvsSlwiRhF8qvCjIVACn89Zi77to5YoFZM%3D
+33,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,Crystal_GND24_Small,https://www.mouser.de/ProductDetail/Vishay-Dale/XT2318HJRGX8M000E?qs=2FehpBK1j95bW7udDV%252BEFg%3D%3D
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,WÜRTH,,,,
+,,,,,
+Id,Designator,Footprint,Quantity,Designation,Supplier and ref
+,"J2,J1",J_Wurth_WR-MPC3_662004231722,2,Conn_01x04,662004231722
+,"J9,J6,J7,J8,J13,J12",J_Wurth_WR-MPC3_662102145021,6,Conn_01x02,662102145021
+,L2,Würth 7345,1,2.2µH,744777002
+,"J11,J14",J_Wurth_WR-MPC3_662002231722,2,Conn_01x02,662002231722
+,"L1,L3",würth7345,2,1µH,744777001
+,SW1,-,-,-,416131160801

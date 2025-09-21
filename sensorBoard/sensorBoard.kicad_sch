@@ -1,51 +1,17 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "df1584e9-54f0-49dc-b423-5f64048efa01")
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 113.03 86.36)
-		(size 44.45 33.02)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "60fa4213-9bcb-42a7-994a-420953d9bcb7")
-		(property "Sheetname" "Platine2"
-			(at 113.03 85.6484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Platine2.kicad_sch"
-			(at 113.03 119.9646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "sensorBoard"
-				(path "/df1584e9-54f0-49dc-b423-5f64048efa01"
-					(page "10")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 113.03 41.91)
 		(size 43.18 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -86,4 +52,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
